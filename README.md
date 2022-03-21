@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Siddharth Kushwaha
-- 👀 I’m interested in Web design and development
+- 👀 I’m interested in web3
 - 🌱 I’m currently learning DSA
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me sskporto.netlify.com
