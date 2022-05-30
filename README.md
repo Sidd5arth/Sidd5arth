@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siddharth Kushwaha
-- 👀 I’m interested in web3
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in Design and development of User Experience and softwares.
+- 🌱 I’m currently learning OpenCV
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me https://sskcnt.carrd.co/
 
