@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Siddharth Kushwaha
 - 👀 I’m interested in Design and development of User Experience and Softwares.
 - 🌱 I’m currently working as a front-end developer
-- 🌐 I’m currently learing Three.js
+- 🌐 I’m currently learning Three.js
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me https://sskcnt.carrd.co/
 
