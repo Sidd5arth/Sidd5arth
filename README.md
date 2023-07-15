@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddharth Kushwaha</h1>
 <h3 align="center">A passionate frontend developer and designer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sidd5arth&label=Profile%20views&color=0e75b6&style=flat" alt="sidd5arth" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidd5arth" alt="sidd5arth" /></a> </p>
-
 - 🔭 I’m currently working on **AI-Powered 3D Website Using React**
 
 - 🌱 I’m currently learning **Three.js**
