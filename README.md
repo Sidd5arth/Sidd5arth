@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Trying my hands on React three fiber<br><br>👯 I’m looking to collaborate on Frontend Design or development related work<br><br>💬 Ask me about javaScript,react.js,next.js<br><br>📫 How to reach me siddharthmnbv@gmail.com<br><br>
+👯 I’m looking to collaborate on Frontend Design or development related work<br><br>💬 Ask me about javaScript,react.js,next.js<br><br>📫 How to reach me siddharthmnbv@gmail.com<br><br>
 
 
 ## 🌐 Socials:
